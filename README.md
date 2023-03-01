@@ -38,10 +38,10 @@ Discord bot simplifies the process of managing Fivem server logs by allowing you
 For more information on how to create a bot on the Discord Developer Portal, please refer to the [official documentation](https://discord.com/developers/docs/intro). 
 
 
-### Contact
+## Contact
 
 If you want to contact with us you can reach us at [Discord](https://discord.gg/3TX7wKC9DM).
 
-### License
+## License
 
 This project is **free to use** and does not contains any license.

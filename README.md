@@ -31,9 +31,10 @@ Discord bot simplifies the process of managing Fivem server logs by allowing you
 3. Navigate to the project directory and run `npm install` to install all the required dependencies.
 4. Create a new bot on the [Discord Developer Portal](https://discord.com/developers/applications), then copy the bot token.
 5. Go to `config.js` and enter your bot token and server settings. 
-6. Start the bot by running `node index.js` in your terminal. The bot should now be online and ready to use.
-7. Configure your bot by editing the `config.js` file. You can choose the categories, channels, roles, and webhook URL that you want to create, as well as the format for the exported logs.
-8. Create a new Discord server and add your bot to it using the OAuth2 URL provided on the Discord Developer Portal. Once your bot is added to the server, type `/log` in the chat to start the bot.
+6. When creating your Discord bot, make sure to enable the necessary bot intents in the Discord Developer Portal. To use this bot, you'll need to enable both the "Server Members Intent" and the "Presence Intent". To enable these intents, go to your bot's page on the Developer Portal, click on the "Bot" section on the left sidebar, and then scroll down to the "Privileged Gateway Intents" section. Enable both the "Server Members Intent" and the "Presence Intent" options.
+7. Start the bot by running `node index.js` in your terminal. The bot should now be online and ready to use.
+8. Configure your bot by editing the `config.js` file. You can choose the categories, channels, roles, and webhook URL that you want to create, as well as the format for the exported logs.
+9. Create a new Discord server and add your bot to it using the OAuth2 URL provided on the Discord Developer Portal. Once your bot is added to the server, type `/log` in the chat to start the bot.
 
 For more information on how to create a bot on the Discord Developer Portal, please refer to the [official documentation](https://discord.com/developers/docs/intro). 
 

@@ -14,7 +14,7 @@ Note: This project is intended to help Fivem server owners save time managing th
 
 Discord bot simplifies the process of managing Fivem server logs by allowing you to easily create custom channels with authorized roles, organize them into categories, and export logs to a file in a specific format using webhooks. The bot includes customization options and a smart delay system to avoid Discord timeouts. The bot also supports 10 different languages to provide a seamless experience for users around the world.
 
-  <a href="https://codewithsadee.github.io/gamics/"><strong>➥ Preview</strong></a>
+  <a href="https://youtu.be/X03IiPM8N3w"><strong>➥ Preview (Arabic)</strong></a>
 
 </div>
 
